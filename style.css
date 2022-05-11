@@ -389,33 +389,6 @@ ul {
     margin-top: 1rem;
 }
 
-
-/* .live-site-btn {
-    margin-left: 35%;
-    margin-bottom: 2rem;
-    width: 90px;
-    height: 20px;
-    font-family: var(--headline-font);
-    font-size: 1.2rem;
-    background-color: transparent;
-    border: none;
-    border-bottom: 1px solid transparent;
-    border-right: 1px solid transparent;
-    border-radius: 10px;
-    transition: .1s ease-in-out;
-}
-
-.live-site-a {
-    color: white;
-}
-
-.live-site-btn:hover,
-.live-site-btn:focus {
-    font-weight: 700;
-    border: 1px solid var(--link-color);
-    border-radius: 10px;
-} */
-
 .code-btn {
     margin-bottom: 2rem;
     width: 90px;
@@ -461,30 +434,6 @@ ul {
     color: var(--second-color);
     line-height: 2rem;
 }
-
-/* .read-more-btn {
-    margin-left: 40%;
-    margin-bottom: 2rem;
-    width: 130px;
-    height: 30px;
-    color: white;
-    font-family: var(--headline-font);
-    font-size: 2rem;
-    letter-spacing: -2px;
-    word-spacing: -8px;
-    background-color: transparent;
-    border: none;
-    border-bottom: 2px solid transparent;
-    border-right: 2px solid transparent;
-    border-radius: 10px;
-    transition: .1s ease-in-out;
-}
-
-.read-more-btn:hover,
-.read-more-btn:focus {
-    border: 2px solid var(--link-color);
-    border-radius: 10px;
-} */
 /* projects end */
 
 /* about me start */
@@ -756,10 +705,6 @@ footer {
         color: var(--second-color);
         line-height: 2rem;
     }
-    
-    /* .read-more-btn {
-        margin-left: 100px;
-    } */
 
     .custom-shape-divider-top-1651759841 {
         top: -1px;
